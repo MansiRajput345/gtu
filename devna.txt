@@ -1,0 +1,13 @@
+hello
+hi
+bye
+bye!
+
+this line is new line!
+1
+2
+3
+4
+5
+6
+7
